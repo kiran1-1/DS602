@@ -1,0 +1,5 @@
+Q1. The Timespan have to be like from Max_date to Min_Date which means 1980 to 2013.
+But, you given as 33 Years.
+Q2. The Age column value of 65_ has to be 65+
+
+hw: 98
