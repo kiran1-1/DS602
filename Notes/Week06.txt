@@ -1,0 +1,7 @@
+Professor, Already mentioned don't import additional libraries.
+
+Q3) Imported confusion_matrix from sklearn
+Q5) Imported Roc_Curve and Auc_Curve
+
+hw: 70
+lab: 100
