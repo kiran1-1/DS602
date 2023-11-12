@@ -1,0 +1,8 @@
+Great Work!
+
+But, random_sate is 124 not 122.
+comments are missing for some of the questions
+
+hw: 95
+lab: 100 
+
