@@ -1,0 +1,4 @@
+hw: 28
+
+From localhost, was EDA helpful? Were they insightful? The markdown should explain finding not what you did. You mention they were insightful in conclusion, then why didn't you use them in your model. 
+You didn't use any of the features... why? No pipeline, no parameter tuning, no cross validation... This is a poor work! 
